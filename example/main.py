@@ -10,7 +10,7 @@ from skeletor.models import build_model
 
 import torch
 
-from pytorch_hessian_eigenthings.hessian_eigenthings import compute_hessian_eigenthings
+# from pytorch_hessian_eigenthings.hessian_eigenthings import compute_hessian_eigenthings
 
 
 def extra_args(parser):
